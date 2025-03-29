@@ -50,13 +50,13 @@
   <a href="https://Discordapp.com/users/799108299747229746" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:tuemail@gmail.com?subject=Hola&body=Quiero%20hablar%20contigo" target="_blank">
+  <a href="mailto:evorricardovegapalomino@gmail.com?subject=Hola&body=Quiero%20hablar%20contigo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/evor-ricardo-vega-palomino-09a798305/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="ricardovegagamer@outlook.es" target="_blank">
+  <a href="mailto:ricardovegagamer@outlook.es?subject=Hola&body=Quiero%20hablar%20contigo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
